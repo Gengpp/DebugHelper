@@ -1,0 +1,6 @@
+framework module Pods_DebugHelper_Example {
+  umbrella header "Pods-DebugHelper_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

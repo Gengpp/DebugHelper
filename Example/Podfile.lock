@@ -1,0 +1,16 @@
+PODS:
+  - DebugHelper (0.1.0)
+
+DEPENDENCIES:
+  - DebugHelper (from `../`)
+
+EXTERNAL SOURCES:
+  DebugHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DebugHelper: d9e9a3cf0429fede8bf89eabe0b39500e0bc15aa
+
+PODFILE CHECKSUM: 3ee0dc7640afeac9fe118894a81decd333d51275
+
+COCOAPODS: 1.10.0.beta.2

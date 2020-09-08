@@ -1,0 +1,22 @@
+{
+  "name": "DebugHelper",
+  "version": "0.1.0",
+  "summary": "A short description of DebugHelper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JackMan-geng/DebugHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JackMan-geng": "963656852@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/JackMan-geng/DebugHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DebugHelper/Classes/**/*"
+}
